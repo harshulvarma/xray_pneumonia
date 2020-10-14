@@ -42,7 +42,7 @@ preds = Dense(2,activation='softmax')(x)
 
 ### Results
 
-The model currently achieves 0.9 F1, precision and recall on the test said. This great but the model also is currenlty overfitting slightly as seen by the accuracy plots and confusion matrix below. The future iterations will include an aggrsive data aumentation and reducing complexity of the model to reduce that.
+The model currently achieves 0.9 F1, precision and recall on the test said. This great but the model also is currently overfitting slightly as seen by the accuracy plots and confusion matrix below. The future iterations will include an aggrsive data aumentation and reducing complexity of the model to reduce that.
 
 <img src="xray3.png?raw=true"/><img src="xray2.png?raw=true"/>
 
